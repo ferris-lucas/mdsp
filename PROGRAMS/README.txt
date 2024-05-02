@@ -1,6 +1,3 @@
-Student Name: Ferreira da Silva LUCAS
-Student No.: 2311328
-Laboratory: Optical Media Interface Lab
 
 ## Note that if you only want to check the output of the execution of the code
 you can open the Jupyter Notebooks (.ipynb files) and check the cached outputs, no
